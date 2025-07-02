@@ -37,10 +37,17 @@ C++ project simulating a tourism management system with admin and user modules, 
   **File Structure**
 
 ├── Uttarakhand_Tourism_Management_Project.cpp # Main source file
+
 ├── bookings.txt # Stores booking records
+
 ├── user.txt # Registered users
+
 ├── feedback.txt # Tourist feedback
+
 ├── hotel.txt # List of available hotels
+
 ├── cabs.txt # List of available cabs
+
 ├── guides.txt # List of available guides
+
 ├── destinations.txt # List of tour destinations
